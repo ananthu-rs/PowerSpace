@@ -957,10 +957,10 @@ BudgetScreen As screen:
         PressedColor: =TextBox2_2.Color
         PressedFill: =TextBox2_2.Fill
         Size: =12
-        Text: ="Spent1"
+        Text: ="Spent"
         VerticalAlign: =VerticalAlign.Top
         Width: =93.1666666666667
-        X: =598.1340881815655
+        X: =598
         Y: =88.1798791896032
         ZIndex: =31
 
